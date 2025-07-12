@@ -1,9 +1,15 @@
 body {
-  background-color: powderblue;
+  background-color: rgb(10, 26, 28);
 }
 h1 {
-  color: blue;
+  color: pink;
+}
+h2 {
+  color: pink;
 }
 p {
-  color: red;
+  color: powderblue;
+}
+a {
+  color: powderblue;
 }
