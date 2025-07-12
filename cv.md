@@ -1,3 +1,4 @@
+![ava1](cateco1ava10.png "My avatar")
 # Nina Tiesenhausen
 ## ninatiesenhausen@gmail.com
 ## I want to change the World from the breakfast to the lunch. Now and then rest in peace
