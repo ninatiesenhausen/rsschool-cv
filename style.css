@@ -4,6 +4,12 @@ body {
 h1 {
   color: pink;
 }
+h2 {
+  color: pink;
+}
 p {
+  color: powderblue;
+}
+a {
   color: powderblue;
 }
