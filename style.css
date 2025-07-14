@@ -10,11 +10,15 @@ h1 {
 h2 {
   color: pink;
 }
-p {
+/* p {
   color: powderblue;
 }
 a {
   color: powderblue;
+} */
+code {
+    font-family: monospace;
+    color: crimson;
 }
 #container {
   width: 100%;
@@ -22,7 +26,7 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  /* justify-content: center; */
+  justify-content: center;
 }
 .rs-school-logo {
   display: block;
