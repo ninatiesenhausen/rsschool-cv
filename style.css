@@ -28,3 +28,6 @@ code {
   width: 50%;
   height: auto;
 }
+.figures-center {
+  align-items: center;
+}
