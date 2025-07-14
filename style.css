@@ -24,3 +24,7 @@ a {
   /* align-items: center; */
   justify-content: center;
 }
+.rs-school-logo {
+  width: 10%;
+  height: auto;
+}
