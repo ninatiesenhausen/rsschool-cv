@@ -25,6 +25,9 @@ a {
   justify-content: center;
 }
 .rs-school-logo {
+  display: block;
+  text-align: right;
+  padding-right: 1.5%;
   width: 10%;
   height: auto;
 }
